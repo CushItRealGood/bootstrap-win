@@ -9,7 +9,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 ```
 Set-ExecutionPolicy RemoteSigned
 Set-ExecutionPolicy Unrestricted
-git clone https://github.com/CushItRealGood/bootstrap-windows.git
+git clone https://github.com/CushItRealGood/bootstrap-win.git
 ```
 Download zip file from github if cloning is too cumbersome or not installed yet
 
